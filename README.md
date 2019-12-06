@@ -4,9 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Notes:
 build: npm run build-prod
+
 build: ng build --prod --base-href https://hoangquanglam.github.io/dummyApp/
+
 deploy: angular-cli-ghpages -d dist/dummyApp/ --no-silent
+
 hosted: https://hoangquanglam.github.io/dummyApp/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
